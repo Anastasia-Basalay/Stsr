@@ -1,2 +1,3 @@
 bibibi bobobo
 novi bobik
+эта строка только в dev
